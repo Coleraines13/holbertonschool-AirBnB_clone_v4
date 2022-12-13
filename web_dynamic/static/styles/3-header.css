@@ -5,13 +5,13 @@ header {
     width: 100%;
     align-items: center;
     border-bottom: 1px solid #CCCCCC;
-}
-header .logo {
     background: url("../images/logo.png") no-repeat;
+}
+/* header .logo {
     margin-left: 20px;
     left: 20px;
     height: 100%;
-}
+} */
 #api_status {
     width: 40px;
     height: 40px;
